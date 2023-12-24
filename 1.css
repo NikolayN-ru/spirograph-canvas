@@ -1,0 +1,17 @@
+/* html {
+color: red;
+}
+
+.card {
+  font-size: 20px;
+  color: blue;
+  @starting-style {
+    width: 350px;
+    backround: green;
+  }
+}
+
+@scope (.def) {
+  color: white;
+}
+ */
